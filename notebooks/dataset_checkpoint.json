@@ -1,0 +1,752 @@
+[
+  {
+    "text":"JALAN RAYA CILINCING NO 36, RUKO CILINCING PLAZZA BLOK A\/2",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JALAN RAYA CILINCING",
+      "no":"36",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"RUKO CILINCING PLAZZA BLOK A\/2"
+    }
+  },
+  {
+    "text":"JALAN CENDRAWASIH PERUMAHAN TAHAP 3 NOMOR 4, KOTA DURI, KABUPATEN BENGKALIS",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JALAN CENDRAWASIH",
+      "no":"4",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"KOTA DURI",
+      "provinsi":"KABUPATEN BENGKALIS",
+      "kodepos":"",
+      "remaining_text":"PERUMAHAN TAHAP 3"
+    }
+  },
+  {
+    "text":"SEDAYU SQUARE Blok B 12, JALAN OUTER RINGROAD LKR. LUAR",
+    "label":{
+      "gedung":"SEDAYU SQUARE",
+      "lantai":"",
+      "jalan":"JALAN OUTER RINGROAD LKR. LUAR",
+      "no":"Blok B 12",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"GRAHA MULIA, CLUSTER DIAMOND, BLOK P7",
+    "label":{
+      "gedung":"GRAHA MULIA",
+      "lantai":"",
+      "jalan":"",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"CLUSTER DIAMOND, BLOK P7"
+    }
+  },
+  {
+    "text":"Ruko Thematik Paramount Marketplace Blok P\/51 Jalan CBD Gading Serpong Selatan",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan CBD Gading Serpong Selatan",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Ruko Thematik Paramount Marketplace Blok P\/51"
+    }
+  },
+  {
+    "text":"GREEN HUB LEVEL 38 TOWER A, KOTA KASABLANKA, JL. CASABLANCA RAYA KAV.88",
+    "label":{
+      "gedung":"GREEN HUB",
+      "lantai":"LEVEL 38",
+      "jalan":"JL. CASABLANCA RAYA",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"KOTA KASABLANKA",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"KAV.88"
+    }
+  },
+  {
+    "text":"Jl. Paus, Gang Masjid Urwatul Wutsqo, No.07",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jl. Paus",
+      "no":"07",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Gang Masjid Urwatul Wutsqo"
+    }
+  },
+  {
+    "text":"Jalan Senopati Nomor 8B, Office 8 Lantai 12",
+    "label":{
+      "gedung":"",
+      "lantai":"12",
+      "jalan":"Jalan Senopati",
+      "no":"8B",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Jalan Batununggal Kav. C Nomor 6",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Batununggal",
+      "no":"6",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Kav. C Nomor 6"
+    }
+  },
+  {
+    "text":"Kavling Rancamas Blok J, Nomor 49",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Kavling Rancamas",
+      "no":"49",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Blok J"
+    }
+  },
+  {
+    "text":"Ruko Mutiara Taman Palem Blok C5 Lt. 1 No. 3 Jl. Kamal Raya",
+    "label":{
+      "gedung":"",
+      "lantai":"1",
+      "jalan":"Jl. Kamal Raya",
+      "no":"3",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Ruko Mutiara Taman Palem Blok C5"
+    }
+  },
+  {
+    "text":"Gedung Wirausaha Lantai 1 Unit 104, Jalan HR Rasuna Said Kav. C-5",
+    "label":{
+      "gedung":"Wirausaha",
+      "lantai":"1",
+      "jalan":"Jalan HR Rasuna Said",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Unit 104, Kav. C-5"
+    }
+  },
+  {
+    "text":"Jl. By Pass Ngurah Rai, Perum. Taman Jimbaran III No. 15, Lingk. Perarudan Jimbaran",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jl. By Pass Ngurah Rai",
+      "no":"15",
+      "kelurahan":"Perarudan Jimbaran",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Perum. Taman Jimbaran III"
+    }
+  },
+  {
+    "text":"CENTENNIAL TOWER Lantai 35 Unit A & B, JL. JEND. GATOT SUBROTO Kaveling 24-25",
+    "label":{
+      "gedung":"CENTENNIAL TOWER",
+      "lantai":"35",
+      "jalan":"JL. JEND. GATOT SUBROTO",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Kaveling 24-25"
+    }
+  },
+  {
+    "text":"Jalan Mahligai Komplek Damai Nomor 9",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Mahligai",
+      "no":"9",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Komplek Damai"
+    }
+  },
+  {
+    "text":"JL. EROPA I KAV I STAGE II\/4 KIEC",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JL. EROPA",
+      "no":"1",
+      "kelurahan":"",
+      "kecamatan":"KIEC",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"I STAGE II\/4"
+    }
+  },
+  {
+    "text":"Jalan Yudistira I, Wonokarto Barat",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Yudistira I",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"Wonokarto Barat",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Jalan Raya Karansinom Ruko Pawarengan Residence No 03",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Raya Karansinom",
+      "no":"03",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Ruko Pawarengan Residence"
+    }
+  },
+  {
+    "text":"JALAN DR. SUTOMO NOMOR 4 GEDUNG GRIYA SINTESA LANTAI 3",
+    "label":{
+      "gedung":"GRIYA SINTESA",
+      "lantai":"3",
+      "jalan":"JALAN DR. SUTOMO",
+      "no":"4",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Worktren, Jl. Jalur Sutera Barat Alam Sutera No. 38K",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jl. Jalur Sutera Barat Alam Sutera",
+      "no":"38K",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Worktren"
+    }
+  },
+  {
+    "text":"Cityloft unit 2217 , Jl KH Mas Mansyur",
+    "label":{
+      "gedung":"",
+      "lantai":"2217",
+      "jalan":"Jl KH Mas Mansyur",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Cityloft unit"
+    }
+  },
+  {
+    "text":"GEDUNG GRANADA REGATAMA LANTAI 3 UNIT B 503 DAN 505, JALAN PARIAMAN NOMOR 1",
+    "label":{
+      "gedung":"GRANADA REGATAMA",
+      "lantai":"3",
+      "jalan":"JALAN PARIAMAN",
+      "no":"1",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"UNIT B 503 DAN 505"
+    }
+  },
+  {
+    "text":"Graha Familymart, Jalan Setiabudi Selatan Kaveling 10",
+    "label":{
+      "gedung":"Graha Familymart",
+      "lantai":"",
+      "jalan":"Jalan Setiabudi Selatan",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Kaveling 10"
+    }
+  },
+  {
+    "text":"MTH Square Ground Floor (GF) A4 A, Jl. Letjen M.T. Haryono Kav. 10",
+    "label":{
+      "gedung":"MTH Square",
+      "lantai":"Ground Floor (GF)",
+      "jalan":"Jl. Letjen M.T. Haryono",
+      "no":"Kav. 10",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"A4 A"
+    }
+  },
+  {
+    "text":"Alamanda Tower Lantai 2 Unit H1 JL. TB. Simatupang Kav 23-24",
+    "label":{
+      "gedung":"Alamanda Tower",
+      "lantai":"2",
+      "jalan":"JL. TB. Simatupang",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Unit H1 Kav 23-24"
+    }
+  },
+  {
+    "text":"Rukan The Avenue 8-038, Perumahan Jakarta Garden City",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Rukan The Avenue",
+      "no":"8-038",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Perumahan Jakarta Garden City"
+    }
+  },
+  {
+    "text":"JL. KARTAMA NO. 74 GEDUNG GRAHA YK Lt.3",
+    "label":{
+      "gedung":"Gedung Graha YK",
+      "lantai":"Lt.3",
+      "jalan":"JL. KARTAMA",
+      "no":"74",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Pergudangan Surya Balaraja Blok H Kav. No.18",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"",
+      "no":"18",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Pergudangan Surya Balaraja Blok H Kav. No."
+    }
+  },
+  {
+    "text":"Jalan Arteri Gading Blok E1 No. 09",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Arteri Gading",
+      "no":"09",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Blok E1"
+    }
+  },
+  {
+    "text":"JL.GAJAH MADA NO 174B,DS KALINILAM,DELTA PAWAN",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JL.GAJAH MADA",
+      "no":"174B",
+      "kelurahan":"DS KALINILAM",
+      "kecamatan":"DELTA PAWAN",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"DISTRIK 8, SENOPATI TOWER PROSPERITY LANTAI 9, JALAN SENOPATI DALAM I, KELURAHAN SENAYAN, KECAMATAN KEBAYORAN BARU, JAKARTA SELATAN",
+    "label":{
+      "gedung":"SENOPATI TOWER PROSPERITY",
+      "lantai":"9",
+      "jalan":"JALAN SENOPATI DALAM I",
+      "no":"",
+      "kelurahan":"KELURAHAN SENAYAN",
+      "kecamatan":"KECAMATAN KEBAYORAN BARU",
+      "kota":"JAKARTA SELATAN",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"DISTRIK 8"
+    }
+  },
+  {
+    "text":"Gedung DIPO Tower - DIPO Business Center Lantai 12 Unit G, Jalan Jend. Gatot Soebroto Kav. 51-52",
+    "label":{
+      "gedung":"DIPO Tower - DIPO Business Center",
+      "lantai":"12",
+      "jalan":"Jalan Jend. Gatot Soebroto",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Kav. 51-52"
+    }
+  },
+  {
+    "text":"Komplek Piazza Residence, Jl. Pasadena No. E-18",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jl. Pasadena",
+      "no":"E-18",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Komplek Piazza Residence"
+    }
+  },
+  {
+    "text":"Gedung Wisma Raharja Lt 8, Jalan TB Simatupang Kav 1, Cilandak Timur, Jakarta Selatan Provinsi DKI Jakarta",
+    "label":{
+      "gedung":"Wisma Raharja",
+      "lantai":"Lt 8",
+      "jalan":"Jalan TB Simatupang",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"Cilandak Timur",
+      "kota":"Jakarta Selatan",
+      "provinsi":"Provinsi DKI Jakarta",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Pergudangan Laksana Business Park Gudang Blok W Nomor 22, Jalan Raya Kali Baru",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Raya Kali Baru",
+      "no":"22",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Pergudangan Laksana Business Park Gudang Blok W"
+    }
+  },
+  {
+    "text":"HARAPAN INDAH BLOK SS 20 NOMOR 10-11",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"HARAPAN INDAH",
+      "no":"10-11",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"BLOK SS 20"
+    }
+  },
+  {
+    "text":"JL. RAYA AIR KENANGA RUKO KENANGA II NO.11",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JL. RAYA AIR KENANGA",
+      "no":"11",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"RUKO KENANGA II"
+    }
+  },
+  {
+    "text":"Perumahan Taman Nuansa Tjampuhan, Jalan Professor Doktor Ida Bagus Mantra",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Jalan Professor Doktor Ida Bagus Mantra",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Perumahan Taman Nuansa Tjampuhan"
+    }
+  },
+  {
+    "text":"GEDUNG OFFICE 8 LEVEL 18-A, JL. SENOPATI NO. 8 B, KAWASAN SCBD",
+    "label":{
+      "gedung":"OFFICE 8",
+      "lantai":"LEVEL 18-A",
+      "jalan":"JL. SENOPATI",
+      "no":"8 B",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"KAWASAN SCBD"
+    }
+  },
+  {
+    "text":"JALAN RAYA ANYAR GANG III No. 2",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JALAN RAYA ANYAR",
+      "no":"2",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":" GANG III"
+    }
+  },
+  {
+    "text":"Gedung 18 Office Park Lantai 22 Suite E, F & G Jl. TB. Simatupang No. 18",
+    "label":{
+      "gedung":"Gedung 18 Office Park",
+      "lantai":"22",
+      "jalan":"Jl. TB. Simatupang",
+      "no":"18",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Gedung Kirana Three Lt 9A Kirana Commercial Avenue Jl. Boulevard Raya No 1",
+    "label":{
+      "gedung":"Kirana Three",
+      "lantai":"9A",
+      "jalan":"Kirana Commercial Avenue",
+      "no":"1",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Jl. Boulevard Raya"
+    }
+  },
+  {
+    "text":"VILLA TANGERANG REGENCY I BE.I\/17 RT.006\/012 KEL. GEBANG RAYA",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"",
+      "no":"BE.I\/17",
+      "kelurahan":"RT.006\/012 Kel. Gebang Raya",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"JL. RAYA KAMPUNG MELAYU, RUKO THE AIRPORT CITY BLOK A 2 - E",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JL. RAYA KAMPUNG MELAYU",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"RUKO THE AIRPORT CITY BLOK A 2 - E"
+    }
+  },
+  {
+    "text":"Komplek Pergudangan Pesona Kahuripan 5 Kampung Pangkalan",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"Komplek Pergudangan Pesona Kahuripan",
+      "no":"5",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Kampung Pangkalan"
+    }
+  },
+  {
+    "text":"GMI BUILDING, JL SRENGSENG SAWAH NO 4",
+    "label":{
+      "gedung":"GMI BUILDING",
+      "lantai":"",
+      "jalan":"JL SRENGSENG SAWAH",
+      "no":"4",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":""
+    }
+  },
+  {
+    "text":"Desa Keurea, kecamatan bahodopi.kabupaten morowali, propinsi Sulawesi Tengah",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"bahodopi",
+      "kota":"Kabupaten Morowali",
+      "provinsi":"Sulawesi Tengah",
+      "kodepos":"",
+      "remaining_text":"Desa Keurea, propinsi"
+    }
+  },
+  {
+    "text":"Gedung Jaya Lantai 5 Unit A-6, Jalan MH Thamrin Nomor 12",
+    "label":{
+      "gedung":"Gedung Jaya",
+      "lantai":"5",
+      "jalan":"Jalan MH Thamrin",
+      "no":"12",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"Unit A-6"
+    }
+  },
+  {
+    "text":"JL.KARANG ANYAR RAYA KOMPLEK 55 BLOK B NO.24 RT.002,RW.013, SAWAH BESAR",
+    "label":{
+      "gedung":"",
+      "lantai":"",
+      "jalan":"JL.KARANG ANYAR RAYA",
+      "no":"24",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"KOMPLEK 55 BLOK B RT.002,RW.013, SAWAH BESAR"
+    }
+  },
+  {
+    "text":"MY REPUBLIC PLAZA, WING A ZONA 6 GREEN OFFICE PARK, JALAN BSD GRAND BOULEVARD, BSD CITY",
+    "label":{
+      "gedung":"REPUBLIC PLAZA",
+      "lantai":"",
+      "jalan":"JALAN BSD GRAND BOULEVARD",
+      "no":"",
+      "kelurahan":"",
+      "kecamatan":"",
+      "kota":"",
+      "provinsi":"",
+      "kodepos":"",
+      "remaining_text":"MY REPUBLIC PLAZA, WING A ZONA 6 GREEN OFFICE PARK, BSD CITY"
+    }
+  }
+]
